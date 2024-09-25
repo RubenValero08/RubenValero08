@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 Hola mis amores, 
+aquí va la parte de idiomas.
 
 <!--
 **RubenValero08/RubenValero08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
